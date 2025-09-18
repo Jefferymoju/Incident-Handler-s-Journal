@@ -103,5 +103,10 @@ This document demonstrates my growth in understanding the incident response life
 
 This **Incident Handler’s Journal** demonstrates my applied learning in:  
 - Documenting incidents using the **5 W’s method**  
-- Anal
+- Analyzing network traffic with **Wireshark** and **tcpdump**  
+- Investigating phishing and malware with **VirusTotal**  
+- Reflecting on personal challenges and growth in the incident response process  
+
+📄 [View Full Incident Handler’s Journal](doc/Incident_handler's_journal.pdf)
+
 
